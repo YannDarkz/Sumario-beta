@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+
+    main {
+        display: block;
+        min-width: 0vw;
+    }
+    
+
+    .container-m{
+    display: grid;
+    grid:
+        "container-resultado" 550px
+        "container-sumario" 550px / 100vw;
+    
+    }
+}

@@ -124,6 +124,8 @@ main {
     bottom: 5px;
     font-size: 29px;
     left: 35px;
+    
+    max-width: 130px;
 }
 
 

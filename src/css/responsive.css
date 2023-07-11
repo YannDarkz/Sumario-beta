@@ -128,7 +128,7 @@
 
 .container-m .container-resultado{
     max-width: 100vw;
-    height: 70vh;
+    height:80vh;
    border-top-right-radius: 0;
    border-top-left-radius: 0;
    
@@ -142,7 +142,7 @@
 
 .container-m .container-sumario {
     width: auto;
-    height: 80vh;
+    height: 90vh;
 }
 
 .container-m .container-sumario .info-sumario .item {
@@ -202,12 +202,12 @@ right: 50px;
     }
 
     .container-m {
-        height: 110vh;
+        height: 120vh;
     }
 
     .container-m .container-resultado {
         
-        height: 55vh;
+        height: 60vh;
     }
 
     .container-m .container-resultado .titulo {
@@ -227,8 +227,8 @@ right: 50px;
         top: 25px;
     
         background: var(--Violet-blue);
-        width: 170px;
-        height: 155px;
+        width: 150px;
+        height: 135px;
     
         /* border: 1px solid black; */
         border-radius: 50%;
@@ -236,7 +236,7 @@ right: 50px;
 
     .container-m .container-resultado .resultado-final .titulo-circulo {
         
-        font-size: 60px;
+        font-size: 50px;
     
     }
 
